@@ -1,4 +1,4 @@
-table, th, td {
+th{
 border: 1px solid black
 }
 th{
@@ -12,4 +12,28 @@ td{
     height: 50px;
     display: block;
     float: left;
+}
+.VAZIO{
+    border: 1px solid white ;
+}
+.MA{
+
+}
+.MAT{
+
+}
+.NM{
+
+}
+.GN{
+
+}
+.OM{
+
+}
+.OUTRO1{
+
+}
+.OUTRO2{
+     
 }
