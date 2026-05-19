@@ -26,7 +26,6 @@ colecaoElementos.forEach(e => {
   const td = tr.cells[e.coluna - 1];
 
   td.innerHTML = `
-<span class="numeroAtomico">${e.numeroAtomico}</span><br>
 <span class="simbolo"><strong>${e.simbolo}</strong></span><br>
 <span class="massaAtomica">${e.massaAtomica}</span>
   `;
